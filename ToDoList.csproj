@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="Models\DTOs\Usuario\" />
+    <Folder Include="Models\DTOs\Tarefa\" />
     <Folder Include="Services\" />
   </ItemGroup>
 
