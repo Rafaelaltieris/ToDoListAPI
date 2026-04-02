@@ -1,4 +1,4 @@
-﻿namespace ToDoList.Models.DTOs.Usuario
+﻿namespace ToDoList.Models.DTOs.UsuarioDto
 {
     public class UsuarioResponseDto
     {

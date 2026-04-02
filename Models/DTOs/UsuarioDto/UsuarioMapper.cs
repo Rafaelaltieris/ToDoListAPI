@@ -1,8 +1,6 @@
-﻿using ToDoList.Models.DTOs;
-using ToDoList.Models.DTOs.Usuario;
-using ToDoList.Models.Entities;
+﻿using ToDoList.Models.Entities;
 
-namespace Aula_01.Models.DTOs;
+namespace ToDoList.Models.DTOs.UsuarioDto;
 
 public static class UsuarioMapper
 {
